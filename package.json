@@ -1,0 +1,28 @@
+{
+  "name": "rest-node-kotlin",
+  "version": "1.0.0",
+  "description": "Example application of Node JS using Kotlin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheuslemke/rest-node-kotlin.git"
+  },
+  "keywords": [
+    "kotlin;",
+    "rest;",
+    "node"
+  ],
+  "author": "Lemke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheuslemke/rest-node-kotlin/issues"
+  },
+  "homepage": "https://github.com/matheuslemke/rest-node-kotlin#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "kotlin": "^1.1.3-2"
+  }
+}
